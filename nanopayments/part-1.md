@@ -1,4 +1,5 @@
 # Will nano-payments save the web?
+![coins](./coins.jpeg)
 
 ## TLDR; yes.
 
