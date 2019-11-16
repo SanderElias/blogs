@@ -1,0 +1,7 @@
+{
+  "name": "blogs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Sander Elias <sanderelias+git@gmail.com>",
+  "license": "MIT"
+}
