@@ -7,7 +7,7 @@ At least, once we are able to provide/accommodate them in an easily digestible f
 
 ## What are nano-payments?
 
-That is the really easy part, it's the ability to do, and to accept really small amounts. To get this thing started I would say \$0.05 and up. But ideally, it starts even lower. After all, the web has a global reach, and there are regions where even 5 dollar cents is a significant amount of money.
+That is the really easy part, it's the ability to do, and to accept really small amounts. To get this thing started I would say \$0.05 and up. But ideally, it starts even lower. After all, the web has a global reach, and there are regions where even 5 cents is a significant amount of money.
 
 Oh, and one thing more. _All transactions are final_. No refunds, no bargaining, nothing. A done deal is a done deal. This is important. Compare it with buying an ice-cream. You can't return the thing. If you drop it, yeah.. bad luck, If it turns out you don't like the taste.. too bad. You can inform the seller, and if there is a good salesperson they might give you something else, but if they don't nobody is surprised.
 Why is this important? It protects the seller and takes out a significant part of the cost involved in digital payments. The customer is also protected by this. This is more difficult to explain in a few words so I will come back onto this in a later article. I will address stuff like customer protection and relevant issues in there too.
